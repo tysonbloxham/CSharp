@@ -2,7 +2,7 @@
   <MonoDevelop.Ide.ItemProperties.HelloWorld PreferredExecutionTarget="MonoDevelop.Default" />
   <MonoDevelop.Ide.Workbench ActiveDocument="HelloWorld Status">
     <Files>
-      <File FileName="Program.cs" Line="23" Column="10" />
+      <File FileName="Program.cs" Line="24" Column="1" />
       <File FileName="HelloWorld Status" />
     </Files>
   </MonoDevelop.Ide.Workbench>
