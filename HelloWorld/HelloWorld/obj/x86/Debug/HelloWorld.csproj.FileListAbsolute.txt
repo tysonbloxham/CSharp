@@ -1,0 +1,5 @@
+/Users/tysonbloxham/Desktop/SeaSharp/HelloWorld/HelloWorld/bin/Debug/HelloWorld.exe
+/Users/tysonbloxham/Desktop/SeaSharp/HelloWorld/HelloWorld/bin/Debug/HelloWorld.pdb
+/Users/tysonbloxham/Desktop/SeaSharp/HelloWorld/HelloWorld/obj/x86/Debug/HelloWorld.csproj.CoreCompileInputs.cache
+/Users/tysonbloxham/Desktop/SeaSharp/HelloWorld/HelloWorld/obj/x86/Debug/HelloWorld.exe
+/Users/tysonbloxham/Desktop/SeaSharp/HelloWorld/HelloWorld/obj/x86/Debug/HelloWorld.pdb
