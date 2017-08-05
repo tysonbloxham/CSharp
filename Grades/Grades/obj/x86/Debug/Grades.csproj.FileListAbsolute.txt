@@ -1,0 +1,5 @@
+/Users/tysonbloxham/Projects/Grades/Grades/bin/Debug/Grades.exe
+/Users/tysonbloxham/Projects/Grades/Grades/bin/Debug/Grades.pdb
+/Users/tysonbloxham/Projects/Grades/Grades/obj/x86/Debug/Grades.csproj.CoreCompileInputs.cache
+/Users/tysonbloxham/Projects/Grades/Grades/obj/x86/Debug/Grades.exe
+/Users/tysonbloxham/Projects/Grades/Grades/obj/x86/Debug/Grades.pdb

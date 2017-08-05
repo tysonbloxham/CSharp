@@ -1,8 +1,8 @@
-﻿<Properties StartupConfiguration="{731145E6-4FB3-4DF8-8494-B3790E719813}|Default">
-  <MonoDevelop.Ide.ItemProperties.HelloWorld PreferredExecutionTarget="MonoDevelop.Default" />
-  <MonoDevelop.Ide.Workbench ActiveDocument="Program.cs">
+﻿<Properties StartupConfiguration="{7C54AE9F-0F7C-4241-B916-63E484A77963}|Default">
+  <MonoDevelop.Ide.ItemProperties.Grades PreferredExecutionTarget="MonoDevelop.Default" />
+  <MonoDevelop.Ide.Workbench ActiveDocument="Grades/Program.cs">
     <Files>
-      <File FileName="Program.cs" Line="21" Column="10" />
+      <File FileName="Grades/Program.cs" Line="13" Column="1" />
     </Files>
   </MonoDevelop.Ide.Workbench>
   <MonoDevelop.Ide.Workspace ActiveConfiguration="Debug|x86" />
