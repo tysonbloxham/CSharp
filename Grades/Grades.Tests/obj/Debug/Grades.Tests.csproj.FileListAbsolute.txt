@@ -10,3 +10,5 @@ C:\Users\Natalie\Source\Repos\CSharp\Grades\Grades.Tests\bin\Debug\Microsoft.Vis
 C:\Users\Natalie\Source\Repos\CSharp\Grades\Grades.Tests\obj\Debug\Grades.Tests.csprojResolveAssemblyReference.cache
 C:\Users\Natalie\Source\Repos\CSharp\Grades\Grades.Tests\obj\Debug\Grades.Tests.dll
 C:\Users\Natalie\Source\Repos\CSharp\Grades\Grades.Tests\obj\Debug\Grades.Tests.pdb
+C:\Users\Natalie\Source\Repos\CSharp\Grades\Grades.Tests\bin\Debug\Grades.exe
+C:\Users\Natalie\Source\Repos\CSharp\Grades\Grades.Tests\bin\Debug\Grades.pdb
