@@ -8,3 +8,8 @@
 /Users/tysonbloxham/Desktop/SeaSharp/Grades/Grades/obj/x86/Debug/Grades.csproj.CoreCompileInputs.cache
 /Users/tysonbloxham/Desktop/SeaSharp/Grades/Grades/obj/x86/Debug/Grades.exe
 /Users/tysonbloxham/Desktop/SeaSharp/Grades/Grades/obj/x86/Debug/Grades.pdb
+C:\Users\Natalie\Source\Repos\CSharp\Grades\Grades\bin\Debug\Grades.exe
+C:\Users\Natalie\Source\Repos\CSharp\Grades\Grades\bin\Debug\Grades.pdb
+C:\Users\Natalie\Source\Repos\CSharp\Grades\Grades\obj\x86\Debug\Grades.csprojResolveAssemblyReference.cache
+C:\Users\Natalie\Source\Repos\CSharp\Grades\Grades\obj\x86\Debug\Grades.exe
+C:\Users\Natalie\Source\Repos\CSharp\Grades\Grades\obj\x86\Debug\Grades.pdb
