@@ -15,6 +15,8 @@ namespace Grades
 
         public GradeStatistics ComputeStatistics()
         {
+            Console.WriteLine("GradeBook::ComputeStatistics");
+
             GradeStatistics stats = new GradeStatistics();
             stats.HighestGrade = 0;
 
@@ -72,6 +74,6 @@ namespace Grades
         }
         public event NameChangedDelegate NameChanged;
         private string _name;
-        private List<float> grades;
+        protected List<float> grades;
     }
 }
