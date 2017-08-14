@@ -32,6 +32,7 @@
     <Reference Include="System" />
   </ItemGroup>
   <ItemGroup>
+    <Compile Include="GradeTracker.cs" />
     <Compile Include="NameChangedDelegate.cs" />
     <Compile Include="NameChangedEventArgs.cs" />
     <Compile Include="Program.cs" />

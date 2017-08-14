@@ -42,11 +42,11 @@ namespace Grades
             get
             {
                 string result;
-                if(AverageGrade >= 90)
+                if (AverageGrade >= 90)
                 {
                     result = "A";
                 }
-                else if(AverageGrade >= 80)
+                else if (AverageGrade >= 80)
                 {
                     result = "B";
                 }
